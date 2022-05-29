@@ -1,0 +1,4 @@
+My API KEY FOR WEATHER ==>fe4feefa8543e06d4f3c66d92c61b69c
+
+
+https://api.openweathermap.org/data/2.5/weather?q=rome&appid=6a2fd0534ca9fa2356988eba0d037f23(FOR CHECKING THE icon id)
